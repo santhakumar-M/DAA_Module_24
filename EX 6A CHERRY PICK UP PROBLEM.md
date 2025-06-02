@@ -63,6 +63,4 @@ print(obj.cherryPickup(grid))
 
 Thus the above program was executed successfully for finding the maximum number of cherries from grid.
 
----
 
-Let me know if you'd like this in a downloadable format like PDF or Word!
